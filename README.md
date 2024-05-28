@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Deploying CRM website using terraform on Azure Kubernetes Service with GitOps approach](https://github.com/mayank91091/Microservices-Api.git)
 
-- 🌱 I’m currently learning **Django, Terraform, ArgoCD**
+- 🌱 I’m currently learning **Learning and implementing Terraform conecpts**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mayankthukral?tab=repositories](https://github.com/Mayankthukral?tab=repositories)
 
