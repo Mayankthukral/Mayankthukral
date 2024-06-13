@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on Deploying Azure Infrastructure using Terraform. 
 
-- 🌱 I’m currently learning **Learning and implementing Terraform concepts**
+- 🌱 I’m currently learning **Learning and implementing Azure resources using Terraform **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mayankthukral?tab=repositories](https://github.com/Mayankthukral?tab=repositories)
 
-- 💬 Ask me about **Devops**
+- 💬 Ask me about **Cloud/Devops**
 
 - 📫 How to reach me **mayankthukral1810@gmail.com**
 
