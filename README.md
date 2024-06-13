@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayank Thukral</h1>
-<h3 align="center">A passionate DevOps Engineer Currently enrolled in Devops for cloud computing</h3>
+<h3 align="center">A passionate Cloud/DevOps Engineer, recent Post Graduate in DevOps for cloud computing</h3>
 
 - 🔭 I’m currently working on Deploying Azure Infrastructure using Terraform. 
 
