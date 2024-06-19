@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mayank Thukral</h1>
 <h3 align="center">A passionate Cloud/DevOps Engineer, recent Post Graduate in DevOps for cloud computing</h3>
 
-- 🔭 I’m currently working on Deploying Azure Infrastructure using Terraform. 
+- 🔭 I’m currently working on Deploying Azure, AWS Infrastructure using Terraform. 
 
-- 🌱 I’m currently learning **Learning and implementing Azure resources using Terraform **
-
-- 👨‍💻 All of my projects are available at [https://github.com/Mayankthukral?tab=repositories](https://github.com/Mayankthukral?tab=repositories)
+- 🌱 I’m currently learning **Learning and implementing Azure, AWS resources using Terraform **
 
 - 💬 Ask me about **Cloud/Devops**
 
 - 📫 How to reach me **mayankthukral1810@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/mayank91091/Microservices-Api.git](https://github.com/mayank91091/Microservices-Api.git)
+- 📄 Know about my experiences [Portfolio](https://mayankthukral.github.io/Portfolio/)
 
-- ⚡ Fun fact **I like to swim, Play badminton, learn new things**
+- ⚡ Fun fact **learn new things Everyday, Connect with new ones**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
